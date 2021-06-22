@@ -1,0 +1,26 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+ignore$
+\.avi$
+\.bmp$
+\.gif$
+\.ico$
+\.jpe?g$
+\.lock$
+\.map$
+\.min\.
+\.mod$
+\.mp[34]$
+\.png$
+\.tiff$
+\.wav$
+\.webp$
+^nextjs/
+^packages/generator/templates/app/\.vscode/extensions\.json$
+^README\.md$
+^recipes/tailwind/templates/config/postcss\.config\.js$
+^\.all-contributorsrc$
+^\.github/
